@@ -1,0 +1,19 @@
+# C++ objects and libs
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.dll
+*.dylib
+
+CMakeSettings.json
+.vs
+.vscode
+.cache
+out
+bin
+build
